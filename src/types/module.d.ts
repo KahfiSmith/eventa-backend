@@ -1,0 +1,9 @@
+declare module '@/routes/auth';
+declare module '@/routes/users';
+declare module '@/routes/events';
+declare module '@/routes/categories';
+declare module '@/routes/venues';
+declare module '@/routes/tickets';
+declare module '@/routes/payments';
+declare module '@/routes/locations';
+declare module '@/routes/notifications';
